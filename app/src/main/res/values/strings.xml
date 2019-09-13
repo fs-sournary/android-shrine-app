@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidShrineApp</string>
+    <string name="shrine_title">Shrine</string>
+
+    <!-- Login -->
+    <string name="login_title">Login</string>
+    <string name="login_username_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+</resources>
